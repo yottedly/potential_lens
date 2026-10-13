@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Customer Success Manager",
+    "company": "BrightDesk (fictional software company)",
+    "description": "Own the relationship with a portfolio of business customers: get them onboarded, keep them happy, and help them renew and grow.",
+    "requirements": [
+      "SaaS experience",
+      "Account management",
+      "CRM tools",
+      "Customer onboarding",
+      "Reducing churn",
+      "3+ years in customer success"
+    ],
+    "keywords": [
+      "saas",
+      "customer success",
+      "account management",
+      "crm",
+      "onboarding",
+      "churn"
+    ],
+    "min_keyword_matches": 3
+  }
+]

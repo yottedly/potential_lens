@@ -1,0 +1,169 @@
+[
+  {
+    "id": "A",
+    "name": "Alex Tan",
+    "school": "Local community college",
+    "last_employer": "Regional retail chain",
+    "type": "Hidden gem",
+    "resume": "Retail Store Manager, 6 years (promoted from sales associate to assistant manager to store manager)\n- Led a team of 12 associates and coached two into supervisor roles\n- Resolved escalated customer complaints, turning most into repeat purchases\n- Improved repeat-customer rate from 38% to 46% over two years\n- Taught myself a CRM tool through an online course and used it to track customer follow-ups\n- Volunteered to run onboarding for a nonprofit's donor database, training 9 volunteers\n- Built a weekly customer feedback summary that the regional manager adopted across 5 stores",
+    "analysis": {
+      "fit_score": 84,
+      "headline": "Strong transferable fit with high learning agility, described in retail language rather than SaaS language.",
+      "skills": [
+        {
+          "skill": "Retention and account health",
+          "evidence": "Improved repeat-customer rate from 38% to 46% over two years"
+        },
+        {
+          "skill": "Customer onboarding and training",
+          "evidence": "Volunteered to run onboarding for a nonprofit's donor database, training 9 volunteers"
+        },
+        {
+          "skill": "CRM tools",
+          "evidence": "Taught myself a CRM tool through an online course"
+        },
+        {
+          "skill": "Team leadership and coaching",
+          "evidence": "Led a team of 12 associates and coached two into supervisor roles"
+        }
+      ],
+      "growth_signals": [
+        {
+          "signal": "Growing responsibility",
+          "evidence": "promoted from sales associate to assistant manager to store manager"
+        },
+        {
+          "signal": "Self-directed learning",
+          "evidence": "Taught myself a CRM tool through an online course"
+        },
+        {
+          "signal": "Initiative that scaled beyond the job",
+          "evidence": "Built a weekly customer feedback summary that the regional manager adopted across 5 stores"
+        }
+      ],
+      "gaps": [
+        "No direct SaaS product experience",
+        "No formal renewal or contract negotiation experience"
+      ],
+      "plan": {
+        "days_30": "Learn the SaaS customer lifecycle (onboarding, adoption, renewal) and shadow two senior CSMs.",
+        "days_60": "Own onboarding for a small set of accounts using the company CRM.",
+        "days_90": "Run a first renewal conversation with support, and present a retention insight to the team."
+      }
+    }
+  },
+  {
+    "id": "B",
+    "name": "Jordan Reyes",
+    "school": "Well-known private university",
+    "last_employer": "Large, well-known SaaS company",
+    "type": "Perfect on paper",
+    "resume": "Customer Success Manager, 4 years\n- Managed 40 SaaS accounts and ran quarterly business reviews\n- Owned account management for mid-market customers using Salesforce CRM\n- Handled customer onboarding for new clients\n- Reduced churn on my book of accounts by 2% in the last year\n- Maintained a 95% satisfaction score",
+    "analysis": {
+      "fit_score": 68,
+      "headline": "Strong, ready-now skills match, but little evidence of growth beyond the current role.",
+      "skills": [
+        {
+          "skill": "Account management",
+          "evidence": "Managed 40 SaaS accounts and ran quarterly business reviews"
+        },
+        {
+          "skill": "Customer onboarding",
+          "evidence": "Handled customer onboarding for new clients"
+        },
+        {
+          "skill": "Churn reduction",
+          "evidence": "Reduced churn on my book of accounts by 2% in the last year"
+        }
+      ],
+      "growth_signals": [
+        {
+          "signal": "Consistent performance",
+          "evidence": "Maintained a 95% satisfaction score"
+        }
+      ],
+      "gaps": [
+        "No evidence of new skills learned or responsibility growing over 4 years",
+        "No examples of initiative beyond the assigned accounts"
+      ],
+      "plan": {
+        "days_30": "Onboard quickly. Little ramp-up is needed.",
+        "days_60": "Take on a stretch goal, such as mentoring or improving a process.",
+        "days_90": "Agree on a growth path to avoid plateauing."
+      }
+    }
+  },
+  {
+    "id": "C",
+    "name": "Priya Nair",
+    "school": "State university",
+    "last_employer": "Public high school",
+    "type": "Hidden gem",
+    "resume": "High School Science Teacher, 8 years\n- Taught 150 students per year and adapted lessons for different learning levels\n- Wrote and ran a training program for 20 new teachers at my school\n- Learned data analysis on my own and built a dashboard to track student progress, which the principal used for school-wide decisions\n- Communicated weekly with parents about progress and concerns, keeping parent complaints near zero\n- Completed a part-time certificate in instructional design while teaching full time",
+    "analysis": {
+      "fit_score": 76,
+      "headline": "Strong fit for the customer education and relationship side of the role, with clear self-taught technical skills.",
+      "skills": [
+        {
+          "skill": "Customer onboarding and training",
+          "evidence": "Wrote and ran a training program for 20 new teachers at my school"
+        },
+        {
+          "skill": "Stakeholder communication",
+          "evidence": "Communicated weekly with parents about progress and concerns, keeping parent complaints near zero"
+        },
+        {
+          "skill": "Data-informed decisions",
+          "evidence": "built a dashboard to track student progress, which the principal used for school-wide decisions"
+        }
+      ],
+      "growth_signals": [
+        {
+          "signal": "Self-directed learning",
+          "evidence": "Learned data analysis on my own"
+        },
+        {
+          "signal": "Learning while working full time",
+          "evidence": "Completed a part-time certificate in instructional design while teaching full time"
+        }
+      ],
+      "gaps": [
+        "No SaaS or CRM experience",
+        "No commercial or renewal experience"
+      ],
+      "plan": {
+        "days_30": "Learn the product deeply, since teaching skills transfer best once she knows it well.",
+        "days_60": "Build a customer training and onboarding guide for new accounts.",
+        "days_90": "Manage a small portfolio and use data to flag at-risk customers."
+      }
+    }
+  },
+  {
+    "id": "D",
+    "name": "Morgan Lee",
+    "school": "Business college",
+    "last_employer": "Small accounting office",
+    "type": "Weak fit",
+    "resume": "Bookkeeper, 5 years\n- Entered invoices and reconciled accounts in spreadsheets\n- Prepared month-end reports for the owner\n- Filed tax paperwork on schedule\n- Worked mostly independently with little customer contact",
+    "analysis": {
+      "fit_score": 22,
+      "headline": "Low fit for this role. Little evidence of customer-facing work or growth signals.",
+      "skills": [
+        {
+          "skill": "Accuracy and reliability",
+          "evidence": "Filed tax paperwork on schedule"
+        }
+      ],
+      "growth_signals": [],
+      "gaps": [
+        "Little customer contact",
+        "No evidence of leadership, initiative, or new skills"
+      ],
+      "plan": {
+        "days_30": "Not recommended for this role. Consider finance or operations roles instead.",
+        "days_60": "-",
+        "days_90": "-"
+      }
+    }
+  }
+]
